@@ -3,9 +3,12 @@ README GitHub Profile cho: Minh Lữ
 Phong cách Anime Nhật Bản
 -->
 
+<!-- Header Banner Anime động -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8zb1S7Pk9aY1u/giphy.gif" alt="anime coding girl" width="320" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:8B6144,100:C4A580&height=200&section=header&text=Minh%20L%E1%BB%A5%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Aspiring%20Database%20Engineer&descSize=16&descAlignY=55" width="100%" />
 </p>
+
+<div>
 
 <h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff4081;">
   👋 Xin chào! Mình là Minh Lữ (LuMinhDev)
