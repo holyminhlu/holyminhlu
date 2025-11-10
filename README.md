@@ -1,98 +1,60 @@
 <!--
-README GitHub Profile cho: Minh Lữ
-Phong cách Anime Nhật Bản
+README GitHub Profile Minh Lữ - Phong cách Anime & Cá nhân hóa
 -->
 
+<!-- Header Banner Anime động -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8zb1S7Pk9aY1u/giphy.gif" alt="anime coding girl" width="320" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:8B6144,100:C4A580&height=200&section=header&text=Minh%20L%E1%BB%A5%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Aspiring%20Database%20Engineer&descSize=16&descAlignY=55" width="100%" />
 </p>
 
-<h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff4081;">
-  👋 Xin chào! Mình là Minh Lữ (LuMinhDev)
-</h1>
+<div>
 
-<p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:18px; color:#ff79c6;">
-  IT Student @ Trà Vinh University • Aspiring Database Engineer
-</p>
+<!-- Ảnh hoạt hình Anime bên phải -->
+<img src="https://media.giphy.com/media/3o6Zt8zb1S7Pk9aY1u/giphy.gif" width="360" align="right" style="border-radius:15px; box-shadow: 0 0 15px #8B6144;" />
+
+<!-- Ảnh minh họa bạn có thể thay đổi, ví dụ ảnh AboutMe phong cách anime -->
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="450" alt="Skills Animation" />
+
+<br/><br/>
+
+### 👤 Về mình
+- **Tên:** Minh Lữ (LuMinhDev)  
+- **Đang học:** Công nghệ thông tin, Trà Vinh University  
+- **Mục tiêu:** Trở thành Database Engineer chuyên nghiệp, thiết kế và tối ưu hệ thống dữ liệu doanh nghiệp  
+- **Kỹ năng chính:**  
+  `C# (WinForms)`, `SQL Server`, `Java`, `Node.js`, `Vue.js`, `MongoDB`, `Docker`, `Swagger`, `Postman`, `Git/GitHub`  
 
 ---
 
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  🚀 Tóm tắt nhanh
-</h2>
-
-<ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto;">
-  <li>🎯 <b style="color:#ff79c6;">Mục tiêu:</b> Trở thành <b>Database Engineer</b> chuyên nghiệp — thiết kế, tối ưu và bảo trì hệ thống dữ liệu cho doanh nghiệp.</li>
-  <li>🧰 <b style="color:#ff79c6;">Thế mạnh:</b> Thiết kế cơ sở dữ liệu, truy vấn tối ưu, bảo mật, tích hợp backend với UI.</li>
-  <li>🧩 <b style="color:#ff79c6;">Công nghệ chính:</b> <code>C# (WinForms)</code>, <code>SQL Server</code>, <code>Java</code>, <code>Node.js</code>, <code>Vue.js</code>, <code>MongoDB</code>, <code>Docker</code>, <code>Swagger</code>, <code>Postman</code>, <code>Git/GitHub</code>.</li>
-  <li>🎓 <b style="color:#ff79c6;">Hiện tại:</b> Sinh viên ngành CNTT tại <b>Trà Vinh University</b>.</li>
-</ul>
+### ⭐ Dự án tiêu biểu
+- [Hệ thống quản lý điểm sinh viên](https://github.com/<your-username>/quan-ly-diem)  
+  Windows Forms C# + SQL Server, quản lý điểm theo vai trò Sinh viên/Giảng viên/Admin  
+- [Ứng dụng mượn trả thiết bị](https://github.com/<your-username>/device-loan-system)  
+  Vue.js + Node.js + SQL Server, quản lý và duyệt thiết bị trường học  
+- [CheapTripApp](https://github.com/<your-username>/cheaptripapp)  
+  Ứng dụng đặt tour du lịch, nghỉ dưỡng (Vue.js + Node.js + MongoDB)  
+- [Socket Chat & IP Programming](https://github.com/<your-username>/socket-examples)  
+  Java socket: chat, tính tổng 2 số client-server  
 
 ---
 
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  🔧 Kỹ năng (Skills)
-</h2>
+### 🔧 Kỹ năng & Công cụ
+- **Cơ sở dữ liệu & Backend:** SQL Server, thiết kế DB, stored procedures, trigger, C# WinForms, Node.js/Express, Java (network socket)  
+- **DevOps & Tools:** Docker, Git, GitHub Actions, Postman, Swagger, Jira, Figma  
+- **An toàn & Thuật toán:** A* (pathfinding), DES encryption, role-based authentication  
 
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="anime skills" width="400" style="border-radius: 15px; box-shadow: 0 0 15px #ff79c6;" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&count_private=true&theme=radical" />
+  <br/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical" />
 </p>
 
-<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">Database & Backend</h3>
-<ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2;">
-  <li><b>SQL Server:</b> Thiết kế schema, stored procedures, trigger, tối ưu truy vấn</li>
-  <li><b>Database design:</b> ERD, normalization, indexing</li>
-  <li><b>C# (Windows Forms):</b> hệ thống quản lý, authentication, role-based access</li>
-  <li><b>Node.js / Express:</b> API, RESTful services</li>
-  <li><b>Java:</b> lập trình mạng/socket, thuật toán</li>
-  <li><b>MongoDB:</b> document model cho các dự án web</li>
-</ul>
-
-<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">DevOps & Tools</h3>
-<ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2;">
-  <li>Docker, Git, GitHub Actions</li>
-  <li>Postman, Swagger (OpenAPI), Jira, Figma</li>
-  <li>VS Code, Visual Studio</li>
-</ul>
-
-<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">Algorithms & Security</h3>
-<ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2;">
-  <li>Thuật toán: A* (pathfinding)</li>
-  <li>Mã hóa: DES (hiểu sâu các vòng mã hóa)</li>
-  <li>Bảo mật cơ bản: Authentication, role-based access control</li>
-</ul>
-
 ---
 
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  ⭐ Dự án tiêu biểu
-</h2>
-
-<ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto;">
-  <li>📝 <b>Hệ thống quản lý điểm sinh viên</b><br/>Windows Forms C# + SQL Server — Authentication (Sinh viên / Giảng viên / Admin), giảng viên nhập điểm cho môn họ phụ trách.<br/>🔗 <a href="https://github.com/<your-username>/quan-ly-diem" style="color:#ff79c6;">Repo</a></li>
-  <li>🔧 <b>Ứng dụng mượn trả thiết bị (University Equipment Loan System)</b><br/>Web app (Vue.js + Node.js + SQL Server) — quản lý thiết bị, duyệt đơn, tracking, thông báo.<br/>🔗 <a href="https://github.com/<your-username>/device-loan-system" style="color:#ff79c6;">Repo</a></li>
-  <li>🌐 <b>CheapTripApp — Ứng dụng đặt tour du lịch (Đồ án)</b><br/>Vue.js frontend, Node.js backend, MongoDB — booking, thanh toán giả lập, quản lý tours.<br/>🔗 <a href="https://github.com/<your-username>/cheaptripapp" style="color:#ff79c6;">Repo</a></li>
-  <li>💬 <b>Socket Chat / IP Programming Examples</b><br/>Java socket — gửi tin nhắn client → server; tính tổng 2 số qua socket.<br/>🔗 <a href="https://github.com/<your-username>/socket-examples" style="color:#ff79c6;">Repo</a></li>
-</ul>
-
----
-
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  🧾 Thành tựu & Hoạt động học tập
-</h2>
-
-<ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2; max-width: 600px; margin: auto;">
-  <li>🎓 Thực hiện đồ án môn học: <b>Hệ thống đặt tour</b> (frontend/backend tách bạch, sử dụng Docker, Swagger).</li>
-  <li>📚 Làm bài tập: A* trên đồ thị 12 đỉnh, phân tích DES từng vòng, viết trigger cho hệ quản trị bệnh án.</li>
-  <li>🛠️ Đã dùng <b>Jira/Swagger/Postman</b> để quản lý & test API trong dự án nhóm.</li>
-</ul>
-
----
-
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  📫 Liên hệ
-</h2>
-
+### 📫 Liên hệ
 <p align="center">
   <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
     <img src="https://media.giphy.com/media/3o6ZsZDxCIXojr8VmA/giphy.gif" alt="Email Anime" width="70" style="margin: 0 15px;" />
@@ -105,46 +67,21 @@ Phong cách Anime Nhật Bản
   </a>
 </p>
 
-<p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c;">
-  Email: your-email@example.com &nbsp;&nbsp;|&nbsp;&nbsp; LinkedIn: <a href="https://www.linkedin.com/in/<your-linkedin>" style="color:#ff79c6;">https://www.linkedin.com/in/<your-linkedin></a> &nbsp;&nbsp;|&nbsp;&nbsp; GitHub: <a href="https://github.com/<your-username>" style="color:#ff79c6;">https://github.com/<your-username></a>
+<p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#C4A580;">
+  Email: your-email@example.com &nbsp;&nbsp;|&nbsp;&nbsp; LinkedIn: <a href="https://www.linkedin.com/in/<your-linkedin>" style="color:#8B6144;">https://www.linkedin.com/in/<your-linkedin></a> &nbsp;&nbsp;|&nbsp;&nbsp; GitHub: <a href="https://github.com/<your-username>" style="color:#8B6144;">https://github.com/<your-username></a>
 </p>
 
 ---
 
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  🛠️ Badges & GitHub stats
-</h2>
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&count_private=true&theme=radical" />
-</p>
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical" />
+### 💡 Lời nhắn cá nhân
+<p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#C4A580; font-style: italic; max-width: 600px; margin: auto;">
+Mình luôn mở để học hỏi, làm việc nhóm và tham gia dự án thực tế. Nếu bạn có cơ hội thực tập hoặc dự án cần hỗ trợ về database/backend, rất mong được kết nối!
 </p>
 
 ---
 
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  📚 Học & Phát triển
-</h2>
-
-<ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2; max-width: 600px; margin: auto;">
-  <li>⚡ Hiện đang tập trung: <b>SQL performance tuning</b>, indexing strategy, stored procedures phức tạp, backup/restore trong SQL Server.</li>
-  <li>📖 Học thêm: <b>NoSQL patterns</b> (MongoDB), microservices basics, CI/CD với GitHub Actions.</li>
-</ul>
-
----
-
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  💡 Lời nhắn cá nhân
-</h2>
-
-<p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto; font-style: italic;">
-  Mình luôn mở để học hỏi, làm việc nhóm và tham gia dự án thực tế. Nếu bạn có cơ hội thực tập hoặc dự án cần hỗ trợ về database/backend, rất mong được kết nối!
-</p>
-
----
-
-<p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:14px; color:#ff79c6;">
+<p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:14px; color:#8B6144;">
   Made with ❤️ — Minh Lữ • Trà Vinh University
 </p>
+
+</div>
