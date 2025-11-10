@@ -74,7 +74,9 @@ Phong cách Anime Nhật Bản
 <h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
   ⭐ Dự án tiêu biểu
 </h2>
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxrdDZncmV2dnhqcjRzcjE3OWJzOXgxOXc1YnQzaWVoc29icHBnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XLoAphEiufV6/giphy.gif" alt="anime skills" width="700" style="border-radius: 15px; box-shadow: 0 0 15px #ff79c6;" />
+</p>
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto;">
   <li>📝 <b>Hệ thống quản lý điểm sinh viên</b><br/>Windows Forms C# + SQL Server — Authentication (Sinh viên / Giảng viên / Admin), giảng viên nhập điểm cho môn họ phụ trách.<br/>🔗 <a href="https://github.com/<your-username>/quan-ly-diem" style="color:#ff79c6;">Repo</a></li>
   <li>🔧 <b>Ứng dụng mượn trả thiết bị (University Equipment Loan System)</b><br/>Web app (Vue.js + Node.js + SQL Server) — quản lý thiết bị, duyệt đơn, tracking, thông báo.<br/>🔗 <a href="https://github.com/<your-username>/device-loan-system" style="color:#ff79c6;">Repo</a></li>
