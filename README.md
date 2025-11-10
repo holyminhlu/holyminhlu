@@ -42,7 +42,7 @@ Phong cách Anime Nhật Bản
 </h2>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk1a24zOWJxMzZpZ3FmcHp1Z3BmYWdjZnlnc2M4OThkY3J4bWZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMuU3xRkGus3SYqaqD/giphy.gif" alt="anime skills" width="400" style="border-radius: 15px; box-shadow: 0 0 15px #ff79c6;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk1a24zOWJxMzZpZ3FmcHp1Z3BmYWdjZnlnc2M4OThkY3J4bWZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMuU3xRkGus3SYqaqD/giphy.gif" alt="anime skills" width="700" style="border-radius: 15px; box-shadow: 0 0 15px #ff79c6;" />
 </p>
 
 <h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">Database & Backend</h3>
