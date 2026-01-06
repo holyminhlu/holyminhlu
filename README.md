@@ -19,19 +19,19 @@ Phong cách Anime Nhật Bản
 </h1>
 
 <p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:18px; color:#ff79c6;">
-  IT Student @ Trà Vinh University • Aspiring Database Engineer
+  IT Student @ Trà Vinh University
 </p>
 
 ---
 
 <h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  🚀 Tóm tắt nhanh
+  Tóm tắt nhanh
 </h2>
 
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto;">
-  <li>🎯 <b style="color:#ff79c6;">Mục tiêu:</b> Trở thành <b>Database Engineer</b> chuyên nghiệp — thiết kế, tối ưu và bảo trì hệ thống dữ liệu cho doanh nghiệp.</li>
-  <li>🧰 <b style="color:#ff79c6;">Thế mạnh:</b> Thiết kế cơ sở dữ liệu, truy vấn tối ưu, bảo mật, tích hợp backend với UI.</li>
-  <li>🧩 <b style="color:#ff79c6;">Công nghệ chính:</b> <code>C# (WinForms)</code>, <code>SQL Server</code>, <code>Java</code>, <code>Node.js</code>, <code>Vue.js</code>, <code>MongoDB</code>, <code>Docker</code>, <code>Swagger</code>, <code>Postman</code>, <code>Git/GitHub</code>.</li>
+  <li><b style="color:#ff79c6;">Mục tiêu:</b> Trở thành <b>Database Engineer</b> chuyên nghiệp — thiết kế, tối ưu và bảo trì hệ thống dữ liệu cho doanh nghiệp.</li>
+  <li><b style="color:#ff79c6;">Thế mạnh:</b> Thiết kế cơ sở dữ liệu, truy vấn tối ưu, bảo mật, tích hợp backend với UI.</li>
+  <li><b style="color:#ff79c6;">Công nghệ chính:</b> <code>C# (WinForms)</code>, <code>SQL Server</code>, <code>Java</code>, <code>Node.js</code>, <code>Vue.js</code>, <code>MongoDB</code>, <code>Docker</code>, <code>Swagger</code>, <code>Postman</code>, <code>Git/GitHub</code>.</li>
   <li>🎓 <b style="color:#ff79c6;">Hiện tại:</b> Sinh viên ngành CNTT tại <b>Trà Vinh University</b>.</li>
 </ul>
 
@@ -82,6 +82,8 @@ Phong cách Anime Nhật Bản
   <li>🔧 <b>Ứng dụng mượn trả thiết bị (University Equipment Loan System)</b><br/>Web app (Vue.js + Node.js + SQL Server) — quản lý thiết bị, duyệt đơn, tracking, thông báo.<br/>🔗 <a href="https://github.com/<your-username>/device-loan-system" style="color:#ff79c6;">Repo</a></li>
   <li>🌐 <b>CheapTripApp — Ứng dụng đặt tour du lịch (Đồ án)</b><br/>Vue.js frontend, Node.js backend, MongoDB — booking, thanh toán giả lập, quản lý tours.<br/>🔗 <a href="https://github.com/<your-username>/cheaptripapp" style="color:#ff79c6;">Repo</a></li>
   <li>💬 <b>Socket Chat / IP Programming Examples</b><br/>Java socket — gửi tin nhắn client → server; tính tổng 2 số qua socket.<br/>🔗 <a href="https://github.com/<your-username>/socket-examples" style="color:#ff79c6;">Repo</a></li>
+  <li>⚙ <b>Hệ thống Quản lý thiệt bị TVU</b><br/>PHP - Laravel framework - CSDL: MySQL<br/>🔗 <a href="https://github.com/<your-username>/socket-examples" style="color:#ff79c6;">Repo</a></li>
+  <li>📱 <b>Website bán điện thoại TechStore</b><br/>Vue Js -Node Js - CSDL: MongoDB<br/>🔗 <a href="https://github.com/<your-username>/socket-examples" style="color:#ff79c6;">Repo</a></li>
 </ul>
 
 ---
