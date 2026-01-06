@@ -106,7 +106,7 @@ Phong cách Anime Nhật Bản
 </h2>
 
 <p align="center">
-  <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:holyminhludauden@gmail.com" target="_blank" rel="noopener noreferrer">
     <!-- <img src="https://media.giphy.com/media/3o6ZsZDxCIXojr8VmA/giphy.gif" alt="Email Anime" width="70" style="margin: 0 15px;" />  -->
   </a>
   <a href="https://www.linkedin.com/in/holyminhlu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
