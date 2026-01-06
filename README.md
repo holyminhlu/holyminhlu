@@ -151,7 +151,7 @@ Phong cách Anime Nhật Bản
   💡 Lời nhắn cá nhân
 </h2>
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=trinib&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+
 <p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto; font-style: italic;">
   Mình luôn mở để học hỏi, làm việc nhóm và tham gia dự án thực tế. Nếu bạn có cơ hội thực tập hoặc dự án cần hỗ trợ về database/backend, rất mong được kết nối!
 </p>
