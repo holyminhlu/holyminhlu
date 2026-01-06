@@ -109,10 +109,10 @@ Phong cách Anime Nhật Bản
   <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
     <!-- <img src="https://media.giphy.com/media/3o6ZsZDxCIXojr8VmA/giphy.gif" alt="Email Anime" width="70" style="margin: 0 15px;" />  -->
   </a>
-  <a href="https://www.linkedin.com/in/<your-linkedin>" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/holyminhlu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
     <img src="https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif" alt="LinkedIn Anime" width="70" style="margin: 0 15px;" />
   </a>
-  <a href="https://github.com/<your-username>" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/holyminhlu/" target="_blank" rel="noopener noreferrer">
     <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" alt="GitHub Anime" width="70" style="margin: 0 15px;" />
   </a>
 </p>
