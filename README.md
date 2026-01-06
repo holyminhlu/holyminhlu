@@ -107,7 +107,7 @@ Phong cách Anime Nhật Bản
 
 <p align="center">
   <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.giphy.com/media/3o6ZsZDxCIXojr8VmA/giphy.gif" alt="Email Anime" width="70" style="margin: 0 15px;" />
+    <!-- <img src="https://media.giphy.com/media/3o6ZsZDxCIXojr8VmA/giphy.gif" alt="Email Anime" width="70" style="margin: 0 15px;" />  -->
   </a>
   <a href="https://www.linkedin.com/in/<your-linkedin>" target="_blank" rel="noopener noreferrer">
     <img src="https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif" alt="LinkedIn Anime" width="70" style="margin: 0 15px;" />
