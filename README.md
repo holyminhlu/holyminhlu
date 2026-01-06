@@ -118,7 +118,7 @@ Phong cách Anime Nhật Bản
 </p>
 
 <p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c;">
-  Email: your-email@example.com &nbsp;&nbsp;|&nbsp;&nbsp; LinkedIn: <a href="https://www.linkedin.com/in/<your-linkedin>" style="color:#ff79c6;">https://www.linkedin.com/in/<your-linkedin></a> &nbsp;&nbsp;|&nbsp;&nbsp; GitHub: <a href="https://github.com/<your-username>" style="color:#ff79c6;">https://github.com/<your-username></a>
+  Email: holyminhludauden@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; LinkedIn: <a href="https://www.linkedin.com/in/<your-linkedin>" style="color:#ff79c6;">https://www.linkedin.com/in/holyminhlu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</a> &nbsp;&nbsp;|&nbsp;&nbsp; GitHub: <a href="https://github.com/holyminhlu" style="color:#ff79c6;">https://github.com/<your-username></a>
 </p>
 
 ---
