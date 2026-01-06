@@ -128,10 +128,10 @@ Phong cách Anime Nhật Bản
 </h2>
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&count_private=true&theme=radical" />
+ <!-- <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&count_private=true&theme=radical" />  -->
 </p>
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical" />
+<!--  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical" />-->
 </p>
 
 ---
@@ -141,8 +141,7 @@ Phong cách Anime Nhật Bản
 </h2>
 
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2; max-width: 600px; margin: auto;">
-  <li>⚡ Hiện đang tập trung: <b>SQL performance tuning</b>, indexing strategy, stored procedures phức tạp, backup/restore trong SQL Server.</li>
-  <li>📖 Học thêm: <b>NoSQL patterns</b> (MongoDB), microservices basics, CI/CD với GitHub Actions.</li>
+
 </ul>
 
 ---
