@@ -29,7 +29,7 @@ Phong cách Anime Nhật Bản
 </h2>
 
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto;">
-  <li><b style="color:#ff79c6;">Mục tiêu:</b> Trở thành <b>Database Engineer</b> chuyên nghiệp — thiết kế, tối ưu và bảo trì hệ thống dữ liệu cho doanh nghiệp.</li>
+  <li><b style="color:#ff79c6;">Mục tiêu:</b> Trở thành <b>Database Engineer</b> chuyên nghiệp — thiết kế, tối ưu và bảo trì hệ thống dữ liệu cho doanh nghiệp. Nhà phát triển Website.</li>
   <li><b style="color:#ff79c6;">Thế mạnh:</b> Thiết kế cơ sở dữ liệu, truy vấn tối ưu, bảo mật, tích hợp backend với UI.</li>
   <li><b style="color:#ff79c6;">Công nghệ chính:</b> <code>C# (WinForms)</code>, <code>SQL Server</code>, <code>Java</code>, <code>Node.js</code>, <code>Vue.js</code>, <code>MongoDB</code>, <code>Docker</code>, <code>Swagger</code>, <code>Postman</code>, <code>Git/GitHub</code>.</li>
   <li>🎓 <b style="color:#ff79c6;">Hiện tại:</b> Sinh viên ngành CNTT tại <b>Trà Vinh University</b>.</li>
