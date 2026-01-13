@@ -17,7 +17,7 @@ Phong cách Anime Nhật Bản
 </p>
 
 ---
-💻 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -44,6 +44,7 @@ Phong cách Anime Nhật Bản
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
 ---
 
 <h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
