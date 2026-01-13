@@ -23,7 +23,7 @@ Phong cách Anime Nhật Bản
 </h2>
 
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto;">
-  <li><b style="color:#ff79c6;">Mục tiêu:</b> Trở thành <b>Database Engineer</b> chuyên nghiệp — thiết kế, tối ưu và bảo trì hệ thống dữ liệu doanh nghiệp.</li>
+  <li><b style="color:#ff79c6;">Mục tiêu:</b> Trở thành <b>Database Engineer - Full-stack developer</b> chuyên nghiệp — thiết kế, tối ưu và bảo trì hệ thống dữ liệu doanh nghiệp.</li>
   <li><b style="color:#ff79c6;">Thế mạnh:</b> Phân tích nghiệp vụ, thiết kế cơ sở dữ liệu quan hệ, tối ưu truy vấn và xây dựng hệ thống phần mềm full-stack.</li>
   <li><b style="color:#ff79c6;">Học tập:</b> Tập trung vào Công nghệ Phần mềm, có kinh nghiệm thực tế qua các đồ án môn học và hiểu quy trình phát triển theo Scrum.</li>
 </ul>
@@ -43,9 +43,9 @@ Phong cách Anime Nhật Bản
   <li><b>C#:</b> Phát triển ứng dụng Windows Forms, xây dựng hệ thống đăng nhập & phân quyền (Sinh viên/Giảng viên/Admin), kết nối SQL Server.</li>
   <li><b>Java:</b> Lập trình hướng đối tượng (OOP), phát triển giao diện desktop với Java Swing.</li>
   <li><b>JavaScript:</b> Phát triển Frontend (Vue.js) và Backend (Node.js, Express).</li>
-  <li><b>PHP:</b> Xây dựng ứng dụng web (ví dụ: Hệ thống mượn-trả thiết bị).</li>
+  <li><b>PHP:</b> Xây dựng ứng dụng web.</li>
   <li><b>Dart:</b> Đang trong quá trình học tập và làm quen.</li>
-  <li><b>SQL:</b> Thành thạo truy vấn dữ liệu, thiết kế và tối ưu cơ sở dữ liệu quan hệ.</li>
+  <li><b>SQL:</b> Biết truy vấn dữ liệu, thiết kế và tối ưu cơ sở dữ liệu quan hệ.</li>
 </ul>
 
 <h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">2. Phát triển Frontend</h3>
@@ -90,7 +90,7 @@ Phong cách Anime Nhật Bản
 <h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">7. Thuật toán & Bảo mật</h3>
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2;">
   <li><b>Thuật toán:</b> A* (A-star) cho bài toán tìm đường.</li>
-  <li><b>Bảo mật:</b> Hiểu chi tiết thuật toán mã hóa DES (từng vòng), có nhận thức về bảo mật dữ liệu và kiểm soát truy cập.</li>
+  <li><b>Bảo mật:</b> Hiểu chi tiết thuật toán mã hóa DES (từng vòng), AES, có nhận thức về bảo mật dữ liệu và kiểm soát truy cập.</li>
 </ul>
 
 ---
@@ -120,7 +120,7 @@ Phong cách Anime Nhật Bản
   <li>Thực hiện nhiều đồ án môn học với quy trình từ phân tích, thiết kế đến triển khai.</li>
   <li>Viết báo cáo, tài liệu tham khảo đúng chuẩn học thuật.</li>
   <li>Chuẩn bị và thuyết trình hệ thống CNTT (5–10 phút).</li>
-  <li>Có định hướng nghề nghiệp rõ ràng: <b>Database Engineer</b>.</li>
+  <li>Có định hướng nghề nghiệp rõ ràng: <b>Database Engineer - Full-stack developer</b>.</li>
 </ul>
 
 ---
