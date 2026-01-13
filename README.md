@@ -128,7 +128,7 @@ Phong cách Anime Nhật Bản
   ⭐ Dự án tiêu biểu
 </h2>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lwdmtjYmxsYW1hbDI1YjgxOW1mZnp4Y25jM2N1M2wzM3V5Y21vMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273wltvPPLkC04QkA2/giphy.gif" alt="anime skills" width="700" style="border-radius: 15px; box-shadow: 0 0 15px #ff79c6;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lwdmtjYmxsYW1hbDI1YjgxOW1mZnp4Y25jM2N1M2wzM3V5Y21vMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273wltvPPLkC04QkA2/giphy.gif" alt="anime skills" width="500" style="border-radius: 15px; box-shadow: 0 0 15px #ff79c6;" />
 </p>
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto;">
   <li>📝 <b>Hệ thống quản lý điểm sinh viên</b><br/>Windows Forms C# + SQL Server — Authentication (Sinh viên / Giảng viên / Admin), giảng viên nhập điểm cho môn họ phụ trách.<br/>🔗 <a href="https://github.com/holyminhlu/csn-da22ttb-holyminhlu-quanlydiemthi-csharp" style="color:#ff79c6;">Repo</a></li>
