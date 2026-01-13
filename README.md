@@ -177,11 +177,14 @@ Phong cách Anime Nhật Bản
 ---
 
 ## 📊 Thống kê ngôn ngữ lập trình
+## 📊 Thống kê ngôn ngữ lập trình
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyminhlu&layout=compact&theme=radical" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyminhlu&layout=compact&langs_count=8&theme=dracula" 
+    alt="Top Languages"
+  />
 </p>
-
 
 ---
 
