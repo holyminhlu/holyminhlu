@@ -176,15 +176,63 @@ Phong cách Anime Nhật Bản
 
 ---
 
-## 📊 Thống kê ngôn ngữ lập trình
-## 📊 Thống kê ngôn ngữ lập trình
+# 👋 Hello, I'm Holy Minh Lu!
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyminhlu&layout=compact&langs_count=8&theme=dracula" 
-    alt="Top Languages"
-  />
-</p>
+<div align="center">
+  
+  ## 📊 GitHub Statistics
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=holyminhlu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyminhlu&layout=compact&theme=radical&hide_border=true"/>
+  
+  <br/>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=holyminhlu&theme=radical&hide_border=true)
+  
+  <br/>
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=holyminhlu&theme=github-compact&hide_border=true)
+  
+  ## 🏆 GitHub Trophies
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=holyminhlu&theme=radical&no-frame=true&row=2&column=4)
+  
+  ## 📈 Profile Stats
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=holyminhlu&color=blue&style=flat-square" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/holyminhlu?style=social" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/holyminhlu?style=social" alt="Stars"/>
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/github/commit-activity/m/holyminhlu?style=for-the-badge" alt="Commit Activity"/>
+    <img src="https://img.shields.io/github/last-commit/holyminhlu?style=for-the-badge" alt="Last Commit"/>
+  </p>
+  
+</div>
+
+## 🔥 Quick Stats
+
+| **Statistic** | **Value** |
+|--------------|-----------|
+| **Total Repositories** | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fholyminhlu) |
+| **Total Stars** | ![](https://img.shields.io/github/stars/holyminhlu?color=yellow) |
+| **Total Forks** | ![](https://img.shields.io/github/forks/holyminhlu?color=green) |
+| **Total Contributions** | ![](https://img.shields.io/github/contributions/holyminhlu?color=orange) |
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+⭐️ From [holyminhlu](https://github.com/holyminhlu)
 
 ---
 
