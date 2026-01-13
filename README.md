@@ -210,12 +210,6 @@ Phong cách Anime Nhật Bản
 
 ⭐️ From [holyminhlu](https://github.com/holyminhlu)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holyminhlu&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holyminhlu&layout=compact&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holyminhlu&layout=pie&theme=radical)
-
 ---
 
 <p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:14px; color:#ff79c6;">
