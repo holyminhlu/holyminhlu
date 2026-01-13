@@ -176,6 +176,15 @@ Phong cách Anime Nhật Bản
 
 ---
 
+## 📊 Thống kê ngôn ngữ lập trình
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyminhlu&layout=compact&theme=radical" />
+</p>
+
+
+---
+
 <p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:14px; color:#ff79c6;">
   Made with ❤️ — Minh Lữ • Trà Vinh University
 </p>
