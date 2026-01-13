@@ -200,11 +200,12 @@ Phong cách Anime Nhật Bản
 
 ## 🔥 Quick Stats
 
+  <p align="center">
 | **Statistic** | **Value** |
 |--------------|-----------|
 | **Total Repositories** | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fholyminhlu) |
 | **Total Stars** | ![](https://img.shields.io/github/stars/holyminhlu?color=yellow) |
-
+</p>
 ---
 
 ⭐️ From [holyminhlu](https://github.com/holyminhlu)
