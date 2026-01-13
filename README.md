@@ -4,15 +4,9 @@ Phong cách Anime Nhật Bản
 -->
 
 <!-- Header Banner Anime động -->
-<!-- Header Banner Anime động -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:8B6144,100:C4A580&height=200&section=header&text=HO%20LY%20MINH%20LU%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Aspiring%20Database%20Engineer&descSize=16&descAlignY=55" width="100%" />
 </p>
-
-<div>
-
-
-<div>
 
 <h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff4081;">
   👋 Xin chào! Mình là Minh Lữ (LuMinhDev)
@@ -29,44 +23,74 @@ Phong cách Anime Nhật Bản
 </h2>
 
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto;">
-  <li><b style="color:#ff79c6;">Mục tiêu:</b> Trở thành <b>Database Engineer</b> chuyên nghiệp — thiết kế, tối ưu và bảo trì hệ thống dữ liệu cho doanh nghiệp. Nhà phát triển Website.</li>
-  <li><b style="color:#ff79c6;">Thế mạnh:</b> Thiết kế cơ sở dữ liệu, truy vấn tối ưu, bảo mật, tích hợp backend với UI.</li>
-  <li><b style="color:#ff79c6;">Công nghệ chính:</b> <code>C# (WinForms)</code>, <code>SQL Server</code>, <code>Java</code>, <code>Node.js</code>, <code>Vue.js</code>, <code>MongoDB</code>, <code>Docker</code>, <code>Swagger</code>, <code>Postman</code>, <code>Git/GitHub</code>.</li>
-  <li>🎓 <b style="color:#ff79c6;">Hiện tại:</b> Sinh viên ngành CNTT tại <b>Trà Vinh University</b>.</li>
+  <li><b style="color:#ff79c6;">Mục tiêu:</b> Trở thành <b>Database Engineer</b> chuyên nghiệp — thiết kế, tối ưu và bảo trì hệ thống dữ liệu doanh nghiệp.</li>
+  <li><b style="color:#ff79c6;">Thế mạnh:</b> Phân tích nghiệp vụ, thiết kế cơ sở dữ liệu quan hệ, tối ưu truy vấn và xây dựng hệ thống phần mềm full-stack.</li>
+  <li><b style="color:#ff79c6;">Học tập:</b> Tập trung vào Công nghệ Phần mềm, có kinh nghiệm thực tế qua các đồ án môn học và hiểu quy trình phát triển theo Scrum.</li>
 </ul>
 
 ---
 
 <h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  🔧 Kỹ năng (Skills)
+  🔧 Kỹ năng & Công nghệ
 </h2>
 
 <p align="center">
   <img src="/media/v1.Y2lkPTc5MGI3NjExMjk1a24zOWJxMzZpZ3FmcHp1Z3BmYWdjZnlnc2M4OThkY3J4bWZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMuU3xRkGus3SYqaqD/giphy.gif" alt="anime skills" width="700" style="border-radius: 15px; box-shadow: 0 0 15px #ff79c6;" />
 </p>
 
-<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">Database & Backend</h3>
+<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">1. Ngôn ngữ lập trình & Nền tảng</h3>
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2;">
-  <li><b>SQL Server:</b> Thiết kế schema, stored procedures, trigger, tối ưu truy vấn</li>
-  <li><b>Database design:</b> ERD, normalization, indexing</li>
-  <li><b>C# (Windows Forms):</b> hệ thống quản lý, authentication, role-based access</li>
-  <li><b>Node.js / Express:</b> API, RESTful services</li>
-  <li><b>Java:</b> lập trình mạng/socket, thuật toán</li>
-  <li><b>MongoDB:</b> document model cho các dự án web</li>
+  <li><b>C#:</b> Phát triển ứng dụng Windows Forms, xây dựng hệ thống đăng nhập & phân quyền (Sinh viên/Giảng viên/Admin), kết nối SQL Server.</li>
+  <li><b>Java:</b> Lập trình hướng đối tượng (OOP), phát triển giao diện desktop với Java Swing.</li>
+  <li><b>JavaScript:</b> Phát triển Frontend (Vue.js) và Backend (Node.js, Express).</li>
+  <li><b>PHP:</b> Xây dựng ứng dụng web (ví dụ: Hệ thống mượn-trả thiết bị).</li>
+  <li><b>Dart:</b> Đang trong quá trình học tập và làm quen.</li>
+  <li><b>SQL:</b> Thành thạo truy vấn dữ liệu, thiết kế và tối ưu cơ sở dữ liệu quan hệ.</li>
 </ul>
 
-<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">DevOps & Tools</h3>
+<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">2. Phát triển Frontend</h3>
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2;">
-  <li>Docker, Git, GitHub Actions</li>
-  <li>Postman, Swagger (OpenAPI), Jira, Figma</li>
-  <li>VS Code, Visual Studio</li>
+  <li><b>Vue.js:</b> Xây dựng Single Page Application (SPA) với kiến trúc dựa trên component, định tuyến phía client, giao tiếp RESTful API.</li>
+  <li>Thiết kế và phát triển các trang: Giới thiệu, Tin tức, Chính sách.</li>
+  <li>Hiểu rõ vai trò và kiến trúc của một Frontend Application độc lập.</li>
 </ul>
 
-<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">Algorithms & Security</h3>
+<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">3. Phát triển Backend</h3>
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2;">
-  <li>Thuật toán: A* (pathfinding)</li>
-  <li>Mã hóa: DES (hiểu sâu các vòng mã hóa)</li>
-  <li>Bảo mật cơ bản: Authentication, role-based access control</li>
+  <li><b>Node.js + Express:</b> Xây dựng RESTful API, áp dụng kiến trúc Client/Server, tách biệt rõ ràng giữa Frontend và Backend.</li>
+  <li><b>PHP Backend:</b> Xử lý nghiệp vụ cho hệ thống web.</li>
+  <li>Làm việc với <b>API Gateway</b> trong hệ thống backend phân tầng.</li>
+</ul>
+
+<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">4. Cơ sở dữ liệu</h3>
+<ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2;">
+  <li><b>SQL Server:</b> Thiết kế CSDL cho các hệ thống Quản lý Sinh viên, Điểm, Bệnh án, Mượn-trả thiết bị. Thành thạo tạo Bảng, Quan hệ, Trigger, Ràng buộc dữ liệu.</li>
+  <li><b>MySQL:</b> Ứng dụng trong các dự án web.</li>
+  <li><b>MongoDB:</b> Sử dụng cho các hệ thống cần lưu trữ dạng document (ví dụ: đặt tour du lịch).</li>
+  <li>Phân tích và trình bày: ERD, Lược đồ CSDL, Quan hệ dữ liệu.</li>
+</ul>
+
+<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">5. Phân tích & Thiết kế hệ thống</h3>
+<ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2;">
+  <li>Phân tích nghiệp vụ cho các hệ thống: Quản lý bệnh án phòng khám, Mượn-trả thiết bị giảng dạy.</li>
+  <li>Vẽ và mô tả: Activity Diagram, Luồng nghiệp vụ chi tiết theo từng vai trò.</li>
+  <li>Áp dụng kiến thức Công nghệ Phần mềm, hiểu quy trình phát triển phần mềm theo Scrum.</li>
+</ul>
+
+<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">6. Công cụ & DevOps</h3>
+<ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2;">
+  <li><b>Git/GitHub:</b> Quản lý mã nguồn, xử lý lịch sử commit.</li>
+  <li><b>Docker:</b> Container hóa ứng dụng.</li>
+  <li><b>Postman:</b> Kiểm thử API.</li>
+  <li><b>Swagger:</b> Tài liệu hóa RESTful API.</li>
+  <li><b>Jira:</b> Quản lý công việc theo Scrum.</li>
+  <li><b>ngrok:</b> TCP tunneling (hiểu rõ chi phí và giới hạn).</li>
+</ul>
+
+<h3 style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">7. Thuật toán & Bảo mật</h3>
+<ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2;">
+  <li><b>Thuật toán:</b> A* (A-star) cho bài toán tìm đường.</li>
+  <li><b>Bảo mật:</b> Hiểu chi tiết thuật toán mã hóa DES (từng vòng), có nhận thức về bảo mật dữ liệu và kiểm soát truy cập.</li>
 </ul>
 
 ---
@@ -79,24 +103,24 @@ Phong cách Anime Nhật Bản
 </p>
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto;">
   <li>📝 <b>Hệ thống quản lý điểm sinh viên</b><br/>Windows Forms C# + SQL Server — Authentication (Sinh viên / Giảng viên / Admin), giảng viên nhập điểm cho môn họ phụ trách.<br/>🔗 <a href="https://github.com/holyminhlu/csn-da22ttb-holyminhlu-quanlydiemthi-csharp" style="color:#ff79c6;">Repo</a></li>
-  <li>📚 <b>Website chia sẻ tài liệu và học tập trực tuyến Open Learning Foundation</b><br/>Vue Js -Node Js - CSDL: MongoDB<br/>🔗 <a href="https://github.com/holyminhlu/cn-da22ttb-holyminhlu-chiasetailieu-nodejs" style="color:#ff79c6;">Repo</a></li>
-  <li>🔧 <b>Ứng dụng mượn trả thiết bị (University Equipment Loan System)</b><br/>Web app (Vue.js + Node.js + SQL Server) — quản lý thiết bị, duyệt đơn, tracking, thông báo.<br/>🔗 <a href="https://github.com/<your-username>/device-loan-system" style="color:#ff79c6;">Repo</a></li>
-  <li>🌐 <b>CheapTripApp — Ứng dụng đặt tour du lịch (Đồ án)</b><br/>Vue.js frontend, Node.js backend, MongoDB — booking, thanh toán giả lập, quản lý tours.<br/>🔗 <a href="https://github.com/holyminhlu/CNPM-K22-Product3in1-Dattourdulich" style="color:#ff79c6;">Repo</a></li>
-  <li>💬 <b>Socket Chat / IP Programming Examples</b><br/>Java socket — gửi tin nhắn client → server; tính tổng 2 số qua socket.<br/>🔗 <a href="https://github.com/<your-username>/socket-examples" style="color:#ff79c6;">Repo</a></li>
-  <li>⚙ <b>Hệ thống Quản lý thiệt bị TVU</b><br/>PHP - Laravel framework - CSDL: MySQL<br/>🔗 <a href="https://github.com/holyminhlu/WebOS_EquipmentManagement" style="color:#ff79c6;">Repo</a></li>
-  <li>📱 <b>Website bán điện thoại TechStore</b><br/>Vue Js -Node Js - CSDL: MongoDB<br/>🔗 <a href="https://github.com/holyminhlu/DA_PTUDHDV-BAK" style="color:#ff79c6;">Repo</a></li>
+  <li>📚 <b>Website chia sẻ tài liệu và học tập trực tuyến Open Learning Foundation</b><br/>Vue Js - Node Js - MongoDB<br/>🔗 <a href="https://github.com/holyminhlu/cn-da22ttb-holyminhlu-chiasetailieu-nodejs" style="color:#ff79c6;">Repo</a></li>
+  <li>🔧 <b>Hệ thống Quản lý Thiết bị (TVU Equipment Management)</b><br/>Web app (PHP/Laravel) — Quản lý thiết bị, mượn trả, duyệt đơn.<br/>🔗 <a href="https://github.com/holyminhlu/WebOS_EquipmentManagement" style="color:#ff79c6;">Repo</a></li>
+  <li>🌐 <b>CheapTripApp — Ứng dụng đặt tour du lịch (Đồ án CNPM)</b><br/>Vue.js frontend, Node.js backend, MongoDB — booking, thanh toán giả lập.<br/>🔗 <a href="https://github.com/holyminhlu/CNPM-K22-Product3in1-Dattourdulich" style="color:#ff79c6;">Repo</a></li>
+  <li>📱 <b>Website bán điện thoại TechStore</b><br/>Vue Js - Node Js - MongoDB<br/>🔗 <a href="https://github.com/holyminhlu/DA_PTUDHDV-BAK" style="color:#ff79c6;">Repo</a></li>
+  <li>💬 <b>Socket Chat / IP Programming Examples</b><br/>Java socket — client/server communication.<br/>🔗 <a href="https://github.com/holyminhlu/socket-examples" style="color:#ff79c6;">Repo</a> (Vui lòng thay link thực tế)</li>
 </ul>
 
 ---
 
 <h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  🧾 Thành tựu & Hoạt động học tập
+  📚 Hoạt động & Kỹ năng Học thuật
 </h2>
 
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2; max-width: 600px; margin: auto;">
-  <li>🎓 Thực hiện đồ án môn học: <b>Hệ thống đặt tour</b> (frontend/backend tách bạch, sử dụng Docker, Swagger).</li>
-  <li>📚 Làm bài tập: A* trên đồ thị 12 đỉnh, phân tích DES từng vòng, viết trigger cho hệ quản trị bệnh án.</li>
-  <li>🛠️ Đã dùng <b>Jira/Swagger/Postman</b> để quản lý & test API trong dự án nhóm.</li>
+  <li>Thực hiện nhiều đồ án môn học với quy trình từ phân tích, thiết kế đến triển khai.</li>
+  <li>Viết báo cáo, tài liệu tham khảo đúng chuẩn học thuật.</li>
+  <li>Chuẩn bị và thuyết trình hệ thống CNTT (5–10 phút).</li>
+  <li>Có định hướng nghề nghiệp rõ ràng: <b>Database Engineer</b>.</li>
 </ul>
 
 ---
@@ -105,54 +129,20 @@ Phong cách Anime Nhật Bản
   📫 Liên hệ
 </h2>
 
-<p align="center">
-  <a href="mailto:holyminhludauden@gmail.com" target="_blank" rel="noopener noreferrer">
-    <!-- <img src="https://media.giphy.com/media/3o6ZsZDxCIXojr8VmA/giphy.gif" alt="Email Anime" width="70" style="margin: 0 15px;" />  -->
-  </a>
-  <a href="https://www.linkedin.com/in/holyminhlu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
-   <!--  <img src="https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif" alt="LinkedIn Anime" width="70" style="margin: 0 15px;" />-->
-  </a>
-  <a href="https://github.com/holyminhlu/" target="_blank" rel="noopener noreferrer">
-   <!--  <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" alt="GitHub Anime" width="70" style="margin: 0 15px;" />-->
-  </a>
-</p>
-
 <p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c;">
-  Email: holyminhludauden@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; LinkedIn: <a href="https://www.linkedin.com/in/<your-linkedin>" style="color:#ff79c6;">https://www.linkedin.com/in/holyminhlu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</a> &nbsp;&nbsp;|&nbsp;&nbsp; GitHub: <a href="https://github.com/holyminhlu" style="color:#ff79c6;">https://github.com/<your-username></a>
+  Email: <a href="mailto:holyminhludauden@gmail.com" style="color:#ff79c6;">holyminhludauden@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  LinkedIn: <a href="https://www.linkedin.com/in/holyminhlu" style="color:#ff79c6;">https://www.linkedin.com/in/holyminhlu</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  GitHub: <a href="https://github.com/holyminhlu" style="color:#ff79c6;">https://github.com/holyminhlu</a>
 </p>
-
----
-
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  🛠️ Badges & GitHub stats
-</h2>
-
-<p align="center">
- <!-- <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&count_private=true&theme=radical" />  -->
-</p>
-<p align="center">
-<!--  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical" />-->
-</p>
-
----
-
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
-  📚 Học & Phát triển
-</h2>
-
-<ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f8f8f2; max-width: 600px; margin: auto;">
-
-</ul>
 
 ---
 
 <h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff79c6;">
   💡 Lời nhắn cá nhân
 </h2>
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 <p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto; font-style: italic;">
-  Mình luôn mở để học hỏi, làm việc nhóm và tham gia dự án thực tế. Nếu bạn có cơ hội thực tập hoặc dự án cần hỗ trợ về database/backend, rất mong được kết nối!
+  Mình là một sinh viên CNTT đam mê với thế giới dữ liệu và kiến trúc hệ thống. Luôn tò mò học hỏi công nghệ mới, đặc biệt trong lĩnh vực Database, Backend và Phân tích hệ thống. Mình rất mong muốn được tham gia vào các dự án thực tế, môi trường thực tập hoặc cơ hội hợp tác để vừa học hỏi vừa đóng góp.
 </p>
 
 ---
