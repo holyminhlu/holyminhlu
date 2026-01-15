@@ -9,7 +9,7 @@ Phong cách Anime Nhật Bản
 </p>
 
 <h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color:#ff4081;">
-  👋 Xin chào! Mình là Minh Lữ (LuMinhDev)
+  👋 Xin chào! Mình là Minh Lữ
 </h1>
 
 <p align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:18px; color:#ff79c6;">
