@@ -52,7 +52,7 @@ Phong cách Anime Nhật Bản
 </h2>
 
 <ul style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:16px; color:#f1fa8c; max-width: 600px; margin: auto;">
-  <li><b style="color:#ff79c6;">Mục tiêu:</b> Trở thành <b>Database Engineer - Full-stack developer</b> chuyên nghiệp — thiết kế, tối ưu và bảo trì hệ thống dữ liệu doanh nghiệp.</li>
+  <li><b style="color:#ff79c6;">Mục tiêu:</b> Trở thành <b>Database Engineer - Full-stack developer</b> chuyên nghiệp.</li>
   <li><b style="color:#ff79c6;">Thế mạnh:</b> Phân tích nghiệp vụ, thiết kế cơ sở dữ liệu quan hệ, tối ưu truy vấn và xây dựng hệ thống phần mềm full-stack.</li>
   <li><b style="color:#ff79c6;">Học tập:</b> Tập trung vào Công nghệ Phần mềm, có kinh nghiệm thực tế qua các đồ án môn học và hiểu quy trình phát triển theo Scrum.</li>
 </ul>
